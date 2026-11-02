@@ -1,7 +1,7 @@
 # Introduction and Track 0: How LLMs work
 
 This course teaches the durable principles of working with and building on large language models
-(LLMs). Start with this short primer, then follow the tracks in the [course map](../README.md#track-1-using-models).
+(LLMs). Start with this short primer, then follow the tracks in the [course map](https://ai-fundamentals.kwise.app/).
 The [introduction slides](slides.md) cover the same basics and the learning paths through the course.
 
 ## Tokens, prediction and attention
